@@ -1,0 +1,26 @@
+body{
+    background-color: lightgrey;
+}
+button{
+    
+    margin-top: 20px;
+    border-color: black;
+    display: block;
+    text-align: justify;
+    align-items: center;
+    text-align: center;
+    margin-left: 100px;
+    color: black;
+    background-color: rgb(88, 206, 167);
+}
+h1{
+    color: black;
+    align-items: baseline;
+    text-align: center;
+}
+h2{
+    text-align: left;
+    color: black;
+    padding-left: 30px;
+    color: brown;
+}
