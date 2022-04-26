@@ -3,13 +3,13 @@ div {
     margin: 20px;
     width: 100px;
     height: 100px;
-    background: rgba(195, 236, 99, 0.529);
+    background: rgba(169, 136, 53, 0.529);
     transition: width 2s;
   }
 .transition1:hover {
     width: 200px;
     height: 200px;
-    background-color: aqua;
+    background-color: goldenrod;
   transition: width 2s, height 1s;
 }
 .transition2:hover {
@@ -35,5 +35,5 @@ div {
     margin-top: 20px;
     border-color: black;
     display: block;
-    background-color: aqua;
+    background-color: yellowgreen;
 }

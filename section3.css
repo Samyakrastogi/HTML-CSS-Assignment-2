@@ -1,5 +1,5 @@
 .question3{
-    background-color: rgb(219, 192, 227);
+    background-color: rgb(118, 181, 226);
     border: 4px;
     border-style: double;
     padding: 20px;
@@ -12,15 +12,15 @@ ul > li {
 
 h1 ~ p {
     font-weight: bold;
-    background-color: #333;
-    color: #fff;
+    background-color: rgb(77, 52, 185);
+    color: rgb(29, 149, 79);
     padding: .5em;
 }
 
 h1 + p {
     font-weight: bold;
-    background-color: #333;
-    color: #fff;
+    background-color: rgb(77, 52, 185);
+    color: rgb(29, 149, 79);
     padding: .5em;
 } 
 a{
@@ -30,5 +30,5 @@ a{
     margin-top: 20px;
     border-color: black;
     display: block;
-    background-color: aqua;
+    background-color: yellowgreen;
 }
