@@ -2,21 +2,21 @@ body{
     background: gray;
 }
 .section1{
-    background-color: wheat;
+    background-color: rgb(183, 36, 36);
     border: 4px;
     border-style: double;
     padding: 20px;
     margin: 20px;
 }
 .box {
-    background: rgb(91, 196, 237);
+    background: yellow;
     border: 1px solid black;
     margin: 10px;
 }
 
 .parent1 {
     margin-left: 10px;
-    background: white;
+    background: wheat;
     border: 1px solid black;
 }
 
@@ -79,5 +79,5 @@ a{
     margin-top: 20px;
     border-color: black;
     display: block;
-    background-color: aqua;
+    background-color: yellowgreen;
 }
